@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebThueBanSach.Server.props" />
+</Project>

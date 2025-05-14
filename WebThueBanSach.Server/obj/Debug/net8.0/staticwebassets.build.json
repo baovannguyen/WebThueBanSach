@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "ogYr1V61Iw4qSXNKr8nNdsybFiwLnoxSsHD7X86+M3M=",
+  "Source": "WebThueBanSach.Server",
+  "BasePath": "_content/WebThueBanSach.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\FPT\\DATNNNNNNNN\\DATN_code\\WebThueBanSach\\webthuebansach.client\\webthuebansach.client.esproj",
+      "Version": 2,
+      "Source": "webthuebansach.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
